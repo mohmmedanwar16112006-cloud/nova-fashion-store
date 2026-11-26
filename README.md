@@ -1,47 +1,49 @@
-# NOVA – Fashion Store
+# 👟 NOVA Fashion Store
 
-A responsive fashion store landing page built with **HTML** and **CSS**.
+A responsive fashion e-commerce landing page built with **pure HTML and CSS**, as part of my Computer Science studies at Karary University.
 
-## Preview
+## ✨ Features
 
-🔗 **Live demo:** https://mohmmedanwar16112006@gmail.com.github.io/nova-fashion-store/
-
-## Features
-
-- Sticky header with navigation links and a "Shop Now" button
-- Smooth scrolling to each section using anchor links
-- Hero section with call-to-action button
-- Categories section (Shoes, Accessories, Bags) linking to the products
-- Featured products grid with hover zoom and lift effects
-- About section and special offer banner
+- Hero section with call-to-action
+- Product categories (Shoes, Accessories, Bags)
+- Featured products grid (6 products)
+- About section
+- Special offer banner (30% off first order)
 - Footer with quick links, customer service and social links
-- Fully responsive layout for desktop, tablet and mobile
+- Responsive design with breakpoints for tablet and phone
 
-## Built With
+## 📱 Responsive Breakpoints
+
+| Device | Breakpoint       |
+|--------|------------------|
+| Tablet | max-width: 768px |
+| Phone  | max-width: 480px |
+
+## 🛠️ Built With
 
 - HTML5
-- CSS3 (Flexbox, Transitions, Media Queries)
+- CSS3 (Flexbox, Media Queries)
+- [Font Awesome](https://fontawesome.com/) for icons
+- [Google Fonts](https://fonts.google.com/) (Montserrat)
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 nova-fashion-store/
 ├── index.html
 ├── style.css
-├── images/
-└── README.md
+└── images/
 ```
 
-## Run Locally
+## 🚀 Getting Started
 
-1. Download or clone the repository
-2. Open `index.html` in your browser
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/mohmmedanwar16112006@gmail.com/nova-fashion-store.git
+   ```
+2. Open `index.html` in your browser.
 
-## Author
+## 👤 Author
 
 **Mohammed Anwar**
-First-year Computer Science student, Karary University.
-
-## Credits
-
-Images are used for demonstration purposes only.
+First-year Computer Science student, Karary University
