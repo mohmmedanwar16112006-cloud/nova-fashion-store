@@ -1,4 +1,4 @@
-# 👟 NOVA Fashion Store
+no# 👟 NOVA Fashion Store
 
 A responsive fashion e-commerce landing page built with **pure HTML and CSS**, as part of my Computer Science studies at Karary University.
 
@@ -39,7 +39,7 @@ nova-fashion-store/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mohmmedanwar16112006@gmail.com/nova-fashion-store.git
+   git clone https://github.com/mohmmed-anwar-01/nova-fashion-store.git
    ```
 2. Open `index.html` in your browser.
 
